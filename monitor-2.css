@@ -1,0 +1,207 @@
+#c1{
+    position: absolute;
+    height: 1062px;
+    flex-shrink: 0;
+    border-radius: 1062px;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(41, 53, 163, 0.53) 0%, rgba(84, 73, 152, 0.00) 100%);
+    width: 1006px;
+    right: 1000px;
+    bottom: 10px;
+    z-index: -1;
+}
+
+#c2{
+    position: absolute;
+    height: 1062px;
+    flex-shrink: 0;
+    border-radius: 1062px;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(41, 53, 163, 0.53) 0%, rgba(84, 73, 152, 0.00) 100%);
+    width: 1006px;
+    left: 1000px;
+    top: 500px;
+    z-index: -1;
+}
+
+#c3{
+    position: absolute;
+    height: 1062px;
+    flex-shrink: 0;
+    border-radius: 1062px;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(41, 53, 163, 0.53) 0%, rgba(84, 73, 152, 0.00) 100%);
+    width: 1006px;
+    right: 1000px;
+    top: 1200px;
+    z-index: -1;
+}
+
+#c4{
+    position: absolute;
+    height: 1062px;
+    flex-shrink: 0;
+    border-radius: 1062px;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(41, 53, 163, 0.53) 0%, rgba(84, 73, 152, 0.00) 100%);
+    width: 1006px;
+    left: 1000px;
+    top: 1800px;
+    z-index: -1;
+}
+
+#home{
+    position: absolute;
+    right: 15%;
+    height: 74px;
+    flex-shrink: 0;
+    width: 200px;
+    font-family: Inknut Antiqua;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #FFF;
+}
+#home a{
+    text-decoration: none;
+    color: #FFF;
+}
+#about{
+    position: absolute;
+    right: 8%;
+    height: 74px;
+    flex-shrink: 0;
+    width: 200px;
+    font-family: Inknut Antiqua;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #FFF;
+}
+#about a{
+    text-decoration: none;
+    color: #FFF;
+}
+#contact{
+    position: absolute;
+    right: 0%;
+    height: 74px;
+    flex-shrink: 0;
+    width: 200px;
+    font-family: Inknut Antiqua;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #FFF;
+}
+#contact a{
+    text-decoration: none;
+    color: #FFF;
+}
+
+#logo{
+    height: 191px;
+    flex-shrink: 0;
+    width: 280px;
+    height: 200px;
+    width: auto;
+}
+#l1{
+    position: absolute;
+    top: 5%;
+    right: 7.8%;
+    height: 4px;
+    width: 80px;
+    background: rgba(0, 121, 189, 0.50);
+}
+#l2{
+    position: absolute;
+    top: 5%;
+    right: 16.5%;
+    height: 4px;
+    width: 70px;
+    background: rgba(0, 121, 189, 0.50);
+}
+#l3{
+    position: absolute;
+    top: 5%;
+    right: 24.7%;
+    height: 4px;
+    width: 55px;
+    background: rgba(0, 121, 189, 0.50);
+}
+
+#monitor{
+    position: absolute;
+    top: 30%;
+    left: 33%;
+}
+
+#title{
+    position: absolute;
+    left: 30%;
+    top: 5%;
+    width: 620px;
+    height: 328px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Orelega One;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+}
+
+#text{
+    position: absolute;
+    left: 14%;
+    top: 69%;
+    width: 1148px;
+    height: 315px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: justify;
+    font-family: Times New Roman;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+}
+
+#button{
+    position: absolute;
+    left: 37%;
+    top: 750px;
+    height: 111px;
+    flex-shrink: 0;
+    border-radius: 34px;
+    border: 0px solid #58ADB9;
+    background: linear-gradient(95deg, #58ADB9 10.2%, #4B53A1 81.29%);
+    box-shadow: 0px 4px 50px 0px #2684DB;
+    width: 439px;
+}
+
+#button a{
+    position: absolute;
+    left: 40px;
+    text-decoration: none;
+    width: 352px;
+    height: 81px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Orbitron;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+}
